@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>APORIA</title>
+	<link href="http://ourmachine.net/atom.xml" rel="self"/>
+	<link href="http://ourmachine.net"/>
+	<updated>2016-04-02T12:42:48.652Z</updated>
+	<id>http://ourmachine.net</id>
+	<author>
+		<name>Companion Specie</name>
+		<email>kei@ourmachine.net</email>
+	</author>
+
+	
+		<entry>
+			<title>X</title>
+			<link href="http://ourmachine.net//posts/x"/>
+			<updated>2016-04-02T12:01:44.823Z</updated>
+			<id>http://ourmachine.net//posts/x</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;X | APORIA&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A human readable display of my current state.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;aporia, mapping, &quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Companion Specie&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;location&quot;&gt;
+			&lt;a href=&quot;/being&quot;&gt;WELLBEING&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;52.5075419-13.4261419&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/sacral.png&quot;&gt;
+				&lt;h4&gt;
+					37.981367, 23.724222
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					X
+				&lt;/h2&gt;
+
+				&lt;p&gt;[x] is boiling something nervous&lt;br&gt;in a part of their body with no form.&lt;br&gt;It moves and they try to speak it,&lt;br&gt;They grow wiser when it looms and they&amp;#39;re not  &lt;/p&gt;
+&lt;p&gt;afraid of body, death, someone not&lt;br&gt;coming home or speaking quietly.&lt;br&gt;An ideology of self, mutable&lt;br&gt;only - no not mutable at all, &lt;/p&gt;
+&lt;p&gt;only transfigured and sometimes&lt;br&gt;in grasp. They are trying&lt;br&gt;to speak that feeling right above&lt;br&gt;their breasts, which always lands  &lt;/p&gt;
+&lt;p&gt;somewhere below, a sound&lt;br&gt;less visible. They console their&lt;br&gt;guilt and all that they have given away&lt;br&gt;in the name of growth.&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			&lt;a id=&quot;past&quot; href=&quot;/&quot;&gt;HOME&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;map-only&quot; href=&quot;/map&quot;&gt;MAP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;text-only&quot; href=&quot;/text&quot;&gt;CLIPPINGS&lt;/a&gt;
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/map.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Autumnal city</title>
+			<link href="http://ourmachine.net//posts/autumnal-city"/>
+			<updated>2016-04-02T12:01:44.819Z</updated>
+			<id>http://ourmachine.net//posts/autumnal-city</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Autumnal city | APORIA&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A human readable display of my current state.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;aporia, mapping, &quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Companion Specie&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;location&quot;&gt;
+			&lt;a href=&quot;/being&quot;&gt;WELLBEING&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;52.5075419-13.4261419&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/crown.png&quot;&gt;
+				&lt;h4&gt;
+					37.983397, 23.721175
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Autumnal city
+				&lt;/h2&gt;
+
+				&lt;p&gt;Amateurs, tell me&lt;br&gt;what you loved most before&lt;br&gt;before the buildings were&lt;br&gt;empty and the sun too hot,&lt;br&gt;children unafraid to move&lt;br&gt;across the studded sidewalks&lt;br&gt;for the blind, in no&lt;br&gt;direction but a larger&lt;br&gt;hand&amp;#39;s. All those bonds are&lt;br&gt;disappearing, reconfigured,&lt;br&gt;never existent all at once:&lt;br&gt;parents, mother, council rep,&lt;br&gt;kin, common, brethen,&lt;br&gt;ruler, sister, or other&lt;br&gt;terms that mayn&amp;#39;t help us&lt;br&gt;stay alive.&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			&lt;a id=&quot;past&quot; href=&quot;/&quot;&gt;HOME&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;map-only&quot; href=&quot;/map&quot;&gt;MAP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;text-only&quot; href=&quot;/text&quot;&gt;CLIPPINGS&lt;/a&gt;
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/map.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Gecekondu Cliff</title>
+			<link href="http://ourmachine.net//posts/gecekondu-cliff"/>
+			<updated>2016-04-02T12:01:44.819Z</updated>
+			<id>http://ourmachine.net//posts/gecekondu-cliff</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Gecekondu Cliff | APORIA&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A human readable display of my current state.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;aporia, mapping, &quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Companion Specie&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;location&quot;&gt;
+			&lt;a href=&quot;/being&quot;&gt;WELLBEING&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;52.5075419-13.4261419&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/throat.png&quot;&gt;
+				&lt;h4&gt;
+					36.936042, 25.590293
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Gecekondu Cliff
+				&lt;/h2&gt;
+
+				&lt;p&gt;&lt;img src=&quot;/images/photos/002.jpg&quot; class=&quot;post-img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&amp;quot;..claims that these squatters are exploiting a legal loophole which states that if one starts building after dusk and moves into a completed house before dawn the next day without having been noticed by the authorities, then the next day the authorities are not permitted to tear the building down but instead must begin a legal proceeding in court.&amp;quot;&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			&lt;a id=&quot;past&quot; href=&quot;/&quot;&gt;HOME&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;map-only&quot; href=&quot;/map&quot;&gt;MAP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;text-only&quot; href=&quot;/text&quot;&gt;CLIPPINGS&lt;/a&gt;
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/map.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Metanoia</title>
+			<link href="http://ourmachine.net//posts/metanoia"/>
+			<updated>2016-04-02T12:01:44.819Z</updated>
+			<id>http://ourmachine.net//posts/metanoia</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Metanoia | APORIA&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A human readable display of my current state.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;aporia, mapping, &quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Companion Specie&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;location&quot;&gt;
+			&lt;a href=&quot;/being&quot;&gt;WELLBEING&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;52.5075419-13.4261419&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/crown.png&quot;&gt;
+				&lt;h4&gt;
+					36.949933, 25.603596
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Metanoia
+				&lt;/h2&gt;
+
+				&lt;p&gt;&lt;img src=&quot;/images/photos/001.jpg&quot; class=&quot;post-img&quot;&gt;&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			&lt;a id=&quot;past&quot; href=&quot;/&quot;&gt;HOME&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;map-only&quot; href=&quot;/map&quot;&gt;MAP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;text-only&quot; href=&quot;/text&quot;&gt;CLIPPINGS&lt;/a&gt;
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/map.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Painted Roots</title>
+			<link href="http://ourmachine.net//posts/painted-roots"/>
+			<updated>2016-04-02T12:01:44.819Z</updated>
+			<id>http://ourmachine.net//posts/painted-roots</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Painted Roots | APORIA&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A human readable display of my current state.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;aporia, mapping, &quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Companion Specie&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;location&quot;&gt;
+			&lt;a href=&quot;/being&quot;&gt;WELLBEING&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;52.5075419-13.4261419&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/future.png&quot;&gt;
+				&lt;h4&gt;
+					36.930331, 25.598854
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Painted Roots
+				&lt;/h2&gt;
+
+				&lt;p&gt;&lt;img src=&quot;/images/photos/006.jpg&quot; class=&quot;post-img&quot;&gt;&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			&lt;a id=&quot;past&quot; href=&quot;/&quot;&gt;HOME&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;map-only&quot; href=&quot;/map&quot;&gt;MAP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;text-only&quot; href=&quot;/text&quot;&gt;CLIPPINGS&lt;/a&gt;
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/map.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Bitter Lake</title>
+			<link href="http://ourmachine.net//posts/sun"/>
+			<updated>2016-04-02T12:01:44.819Z</updated>
+			<id>http://ourmachine.net//posts/sun</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Bitter Lake | APORIA&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A human readable display of my current state.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;aporia, mapping, &quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Companion Specie&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;location&quot;&gt;
+			&lt;a href=&quot;/being&quot;&gt;WELLBEING&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;52.5075419-13.4261419&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/security.png&quot;&gt;
+				&lt;h4&gt;
+					33.9340384, 67.7034312
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Bitter Lake
+				&lt;/h2&gt;
+
+				&lt;p&gt;Sunset is taken for 00:00 and watches are set for 12.&lt;/p&gt;
+&lt;p&gt;It is important to remember that sunset should be regarded as midnight, and the time of sunrise is irrelevant.&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			&lt;a id=&quot;past&quot; href=&quot;/&quot;&gt;HOME&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;map-only&quot; href=&quot;/map&quot;&gt;MAP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;text-only&quot; href=&quot;/text&quot;&gt;CLIPPINGS&lt;/a&gt;
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/map.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Use No Army Now</title>
+			<link href="http://ourmachine.net//posts/use-no-army-now"/>
+			<updated>2016-04-02T12:01:44.819Z</updated>
+			<id>http://ourmachine.net//posts/use-no-army-now</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Use No Army Now | APORIA&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A human readable display of my current state.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;aporia, mapping, &quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Companion Specie&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;location&quot;&gt;
+			&lt;a href=&quot;/being&quot;&gt;WELLBEING&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;52.5075419-13.4261419&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/sacral.png&quot;&gt;
+				&lt;h4&gt;
+					37.986846, 23.735013
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Use No Army Now
+				&lt;/h2&gt;
+
+				&lt;p&gt;Date 27 Dec 2014 23:08&lt;br&gt;Topic No Topic&lt;br&gt;Hexagram Peace (11) &amp;gt; 2,4,6 &amp;gt; The Clinging, Fire (30)  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;Present&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;泰 Peace (11)&lt;br&gt;This hexagram denotes a time free of tension. Antagonistic tendencies subside, harmonious relationships exist. But now is the time to be watchful of our inner attitude, to remain conscientious. Times of peace invite us to become overconfident, thus careless of our inner-world responsibilities.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;Changing Lines&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Second Line&lt;br&gt;&lt;em&gt;Bearing with the uncultured in gentleness.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;During times of peace, we are tempted to become hard on others who make mistakes, or to become alienated through having to deal with their troublesome egos. It is in keeping with modesty not to form a mental faction against them but to bear with them.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Fording the river with resolution.&amp;quot; When we are in a peaceful mood and situations arise that require withdrawal and going on our way alone, we should not neglect this duty, or forget our path. This is also to &amp;quot;not neglect what is distant.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Not regarding one&amp;#39;s companions.&amp;quot; This means that we do not condition what we do by what others are doing, but keep to our own path.&lt;/p&gt;
+&lt;p&gt;Especially during peaceful times, we need to prepare for dangers ahead; in this manner we keep our lives in balance and &amp;quot;walk in the middle.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Fourth Line&lt;br&gt;&lt;em&gt;Guileless and sincere.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In relaxed contacts with people, we should not try to impress them with our abilities, our wit, our charm or our personality. It is best if we do not try to be more than what we are, but associate with people in simplicity.&lt;/p&gt;
+&lt;p&gt;Sixth Line&lt;br&gt;&lt;em&gt;Use no army now.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It is time to dismantle our defenses, strategies and efforts to resist Fate, time to disperse effort and striving. We can rely on the higher power to pull us through, because we have this help.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;Future&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;離 The Clinging, Fire (30)&lt;br&gt;&lt;em&gt;Care of the cow brings good fortune.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Attaining and holding onto clarity is the subject of this hexagram. The docility and acceptance of the cow epitomizes the attitude which leads to clarity. Taking care of this docility in ourself is our work. This means that in spite of the difficulty of all challenging forces, we should cling to what is luminous in ourself and others and in life itself, not forsaking our belief in good and its power. When events seem foreboding and people seem evil, we should remember the good that was and is yet to be-the invisible sparks of light that are momentarily eclipsed by people&amp;#39;s inferior nature. Holding to this idea is to cling to the power of the light force, thereby enabling the dark force to be overcome.&lt;/p&gt;
+&lt;p&gt;Clinging to docility helps us keep disconnected from the strength that the inferior power can muster. When others are sharp we can be dull. This clinging enables us to maintain a moderate and just view of our own and other people&amp;#39;s mistakes. Such clarity is essential if we are to put life into perspective and have a constructive effect.&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			&lt;a id=&quot;past&quot; href=&quot;/&quot;&gt;HOME&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;map-only&quot; href=&quot;/map&quot;&gt;MAP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a id=&quot;text-only&quot; href=&quot;/text&quot;&gt;CLIPPINGS&lt;/a&gt;
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/map.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+</feed>
